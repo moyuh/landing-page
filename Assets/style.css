@@ -51,7 +51,7 @@ figure {
     margin: 10px;
 }
 
-img{
+img {
     width: 520px;
     height: 780px;
     padding: 10px;
@@ -60,12 +60,12 @@ img{
     margin: 10px;
     display: block;
     position: relative;
-    left: 350px;
+    left: 345px;
 }
 article {
     margin: auto 0px;
-    padding: 30px;
-    border-top: 10px solid white;
+    padding: 0px;
+    border: 10px solid white;
     background-color:maroon;
     color: white; 
 }
@@ -79,7 +79,8 @@ form {
     border-radius: 5px;
     font-size: 20px;
     position: relative;
-    left: 500px;
+    left: 470px;
+    bottom: 10px;
 }
 
 label {
